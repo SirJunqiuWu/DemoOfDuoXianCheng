@@ -1,0 +1,2 @@
+# DemoOfDuoXianCheng
+简单实现了ios的三种多线程方法，根据抽象度有低到高的顺序（NSThread,NSOperation,GCD）逐个实现。只需调用想应的方法即可。同时下面用了购票程序测试了NSOperation的线程同步和加锁，也加了文件管理这块。
